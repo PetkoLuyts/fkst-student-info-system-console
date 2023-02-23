@@ -1,0 +1,7 @@
+/Users/macbook/Downloads/PS_44_Petko/UserLogin/bin/Release/UserLogin.exe.config
+/Users/macbook/Downloads/PS_44_Petko/UserLogin/bin/Release/UserLogin.exe
+/Users/macbook/Downloads/PS_44_Petko/UserLogin/bin/Release/UserLogin.pdb
+/Users/macbook/Downloads/PS_44_Petko/UserLogin/obj/Release/UserLogin.csproj.AssemblyReference.cache
+/Users/macbook/Downloads/PS_44_Petko/UserLogin/obj/Release/UserLogin.csproj.CoreCompileInputs.cache
+/Users/macbook/Downloads/PS_44_Petko/UserLogin/obj/Release/UserLogin.exe
+/Users/macbook/Downloads/PS_44_Petko/UserLogin/obj/Release/UserLogin.pdb
